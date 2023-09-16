@@ -36,7 +36,7 @@ When you run ATM63, you'll be presented with a main menu offering the following 
 
 If you select "Open an Account," you'll be prompted to enter your name, initial deposit amount, and create a 4-digit PIN.
 
-![Open an Account](https://github.com/typescriptkamran/atm/blob/images/main/open%20an%20account.png?raw=true)
+![Open an Account](https://github.com/typescriptkamran/atm/blob/main/images/open%20an%20account.png?raw=true)
 
 ### 3. Authenticate as Existing Customer
 
