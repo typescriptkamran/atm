@@ -261,5 +261,5 @@ const main = async () => {
       break;
   }
 }
-
+export {main}
 main();
