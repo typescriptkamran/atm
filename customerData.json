@@ -1,0 +1,26 @@
+[
+  {
+    "name": "kamran",
+    "debitCardNumber": "4858093399935596",
+    "pin": 6333,
+    "balance": 4700
+  },
+  {
+    "name": "kamran",
+    "debitCardNumber": "4340519807854494",
+    "pin": 6333,
+    "balance": 55000
+  },
+  {
+    "name": "Ali",
+    "debitCardNumber": "4673585827155293",
+    "pin": 6333,
+    "balance": 5970
+  },
+  {
+    "name": "ali",
+    "debitCardNumber": "4971791987400568",
+    "pin": 6333,
+    "balance": 6303
+  }
+]
