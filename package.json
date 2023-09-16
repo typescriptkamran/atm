@@ -9,7 +9,7 @@
     "url": "https://github.com/typescriptkamran/atm"
   },
   "bin": {
-    "atm63": "./src/index.js"
+    "atm63": "node ./src/index.js"
   },
 
   "scripts": {
