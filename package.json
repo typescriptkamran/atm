@@ -1,17 +1,16 @@
 {
   "name": "atm63",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic CLI ATM system a Node project",
   "type": "module",
   "main": "./src/index.js",
   "repository": {
-    "type": "git", 
+    "type": "git",
     "url": "https://github.com/typescriptkamran/atm"
   },
   "bin": {
     "atm63": "node ./src/index.js"
   },
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,4 +29,3 @@
     "@types/node": "^20.6.0"
   }
 }
-
