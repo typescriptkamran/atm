@@ -1,6 +1,6 @@
 # ATM63 - Node.js ATM System
 
-![ATM63 Logo](https://github.com/typescriptkamran/atm/blob/main/images/atm63.png?raw=true)
+![ATM63 Logo](https://github.com/typescriptkamran/atm/blob/main/images/ATM63_LOGO.png?raw=true)
 
 ATM63 is a simple Node.js-based Automated Teller Machine (ATM) system that allows users to create accounts, authenticate as existing customers, and perform basic banking operations such as depositing and withdrawing money.
 
