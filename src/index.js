@@ -177,7 +177,7 @@ const withdrawMoney = async () => {
     const withdrawalAmount = parseFloat(answer.amount);
     currentCustomer.balance -= withdrawalAmount;
     saveCustomerData(customers);
-    console.log(`Deposit successful. New balance: $${currentCustomer.balance.toFixed(2)}`);
+    console.log(`Withdrawal successful. New balance: $${currentCustomer.balance.toFixed(2)}`);
     atmMenu();
 };
 const depositMoney = async () => {
@@ -201,7 +201,7 @@ const depositMoney = async () => {
     console.log(`Deposit successful. New balance: $${currentCustomer.balance.toFixed(2)}`);
     atmMenu();
 };
-// Entry point
+// Entry point Main function
 const main = async () => {
     customers = retrieveCustomerData(); // Load customer data from the JSON file
     const answers = await inquirer.prompt([

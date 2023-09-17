@@ -204,7 +204,7 @@ const withdrawMoney = async () => {
   currentCustomer!.balance -= withdrawalAmount;
   saveCustomerData(customers);
 
-  console.log(`Deposit successful. New balance: $${currentCustomer!.balance.toFixed(2)}`);
+  console.log(`Withdrawal successful. New balance: $${currentCustomer!.balance.toFixed(2)}`);
   atmMenu();
 
 }
@@ -234,7 +234,7 @@ const depositMoney = async () => {
 
 }
 
-// Entry point
+// Entry point Main function
 const main = async () => {
   customers = retrieveCustomerData(); // Load customer data from the JSON file
 
